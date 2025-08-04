@@ -38,18 +38,13 @@ The following table shows the performance comparison between different pathfindi
 ### Video Demonstrations
 
 #### CBS Algorithm Results
-- [CBS - 5 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/cbs_5.mkv)
-- [CBS - 8 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/cbs_8.mkv)
-- [CBS - 5 Agents (Tuned)](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/tuned/cbs_5_tuned.mov)
-- [CBS - 8 Agents (Tuned)](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/tuned/cbs_8_tuned.mkv.mov)
+- [CBS - 5 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/cbs_5.mov)
+- [CBS - 8 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/cbs_8.mov)
 
 #### Comparison Algorithms
-- [Layered A* - 5 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/la_5.mkv)
-- [Layered A* - 8 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/la_8.mkv)
-- [Layered A* - 5 Agents (Tuned)](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/tuned/la_5_tuned.mkv.mov)
-- [Layered A* - 8 Agents (Tuned)](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/tuned/la_8_tuned.mkv.mov)
-- [RRT* - 5 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/rtt_5.mkv)
-- [RRT* - 5 Agents (Tuned)](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/tuned/rtt_5_tuned.mkv.mov)
+- [Layered A* - 5 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/la_5.mov)
+- [Layered A* - 8 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/la_8.mov)
+- [RRT* - 5 Agents](https://github.com/buckyhuo/CBS-Multi-Agent-Path-Planning-Simulator/blob/main/video_results/rtt_5.mov)
 
 ## About CBS (Conflict-Based Search)
 
